@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html lang="ar">
 <head>
-    <title>أكاديمية الاحسان</title>
-
+    <title> أكاديمية رسالة </title>
     <!-- Meta Tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="author" content="Webestica.com">
-    <meta name="description" content="Eduport- LMS, Education and Course Theme">
+    <meta name="description" content="اكاديمية رسالة ">
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{asset('logo.jpg')}}">

@@ -1,7 +1,7 @@
 <!-- Sidebar START -->
 <style>
     .bg-red {
-        background-color: #281300 !important;
+        background-color: #05303f !important;
     }
 </style>
 <nav class="navbar sidebar navbar-expand-xl navbar-dark bg-red">
@@ -9,7 +9,7 @@
     <!-- Navbar brand for xl START -->
     <div class="d-flex align-items-center">
         <a class="navbar-brand" href="{{url('/')}}">
-            <h4 style="font-family: Calibri;font-weight: bold;color: whitesmoke">أكاديمية الاحسان</h4>
+            <h4 style="font-family: Calibri;font-weight: bold;color: whitesmoke">أكاديمية رسالة</h4>
         </a>
     </div>
     <!-- Navbar brand for xl END -->
