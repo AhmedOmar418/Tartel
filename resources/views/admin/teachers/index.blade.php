@@ -1,6 +1,7 @@
 @extends('layouts.index')
 
 @section('content')
+
     <!-- Page main content START -->
     <div class="page-content-wrapper border">
 
@@ -75,7 +76,7 @@
                               </div>
 
                               <!-- Edit dropdown -->
-                              <div class="dropdown text-end">
+                              <div class="dropdown text-end" style="margin-bottom: 70px">
                                   <a href="#" class="btn btn-sm btn-light btn-round small mb-0" role="button" id="dropdownShare2" data-bs-toggle="dropdown" aria-expanded="false">
                                       <i class="bi bi-three-dots fa-fw"></i>
                                   </a>
@@ -107,7 +108,7 @@
                     <h5 class="modal-title" id="addTeacherModalLabel">اضف معلم</h5>
                     <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
-                <div class="modal-body">
+                <div class="modal-body" style="max-height: calc(100vh - 210px); overflow-y: auto;">
                     <form action="{{route('teachers.store')}}" method="POST">
                         @csrf
                         <div class="mb-3">

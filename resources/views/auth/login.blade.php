@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>أكاديمية رسالة </title>
+    <title>أكاديمية ترتيل </title>
 
     <!-- Meta Tags -->
     <meta charset="utf-8">
@@ -49,6 +49,9 @@
                     <div class="row my-5">
                         <div class="col-sm-6 col-xl-6 m-auto">
                             <!-- Title -->
+                            <div>
+                                <img src="{{asset('lg.png')}}">
+                            </div>
 
                             <h1 class="fs-2 text-center almarai-bold">تسجيل الدخول</h1>
                             @if(session('error'))

@@ -9,7 +9,7 @@
     <!-- Navbar brand for xl START -->
     <div class="d-flex align-items-center">
         <a class="navbar-brand" href="{{url('/')}}">
-            <h4 style="font-family: Calibri;font-weight: bold;color: whitesmoke">أكاديمية رسالة</h4>
+            <h4 style="font-family: Calibri;font-weight: bold;color: whitesmoke">أكاديمية ترتيل</h4>
         </a>
     </div>
     <!-- Navbar brand for xl END -->
